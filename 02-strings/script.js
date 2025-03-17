@@ -13,7 +13,8 @@ console.log (name);
 let number = 4;
 let text = 'Testo';
 let bool = true;
-console.log (number, text, bool);
+console.log(number, text, bool);
+
 
 // 3. Sostituisci null nelle righe sottostanti utilizzando operazioni con le stringhe
 // e le variabili sopra in modo da stampare correttamente 
